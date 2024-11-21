@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MisAficiones</string>
+    <string name="title_activity_aficiones">Aficiones</string>
+
+    <string name="hello_blank_fragment_games">Hello blank fragment games</string>
+    <string name="title_activity_tipofutbol">Futbol</string>
+    <string name="tipoFutbol7">Futbol 7.</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_sobre_mi">Sobre Mi</string>
+</resources>
